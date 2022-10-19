@@ -1,0 +1,22 @@
+.section__first {
+  width: 1280px;
+  margin-left: 80px;
+
+  &__input {
+    width: 480px;
+    background: #ffffff;
+    box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+    border-radius: 5px;
+    padding: 18px;
+  }
+
+  &__select {
+    width: 200px;
+    background: #ffffff;
+    box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+    border-radius: 5px;
+    padding: 18px;
+    position: relative;
+    left: 599px;
+  }
+}
